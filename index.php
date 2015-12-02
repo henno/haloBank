@@ -1,8 +1,8 @@
 <?php
 
 // Project constants
-define('PROJECT_NAME', 'halo');
-define('DEFAULT_CONTROLLER', 'welcome');
+define('PROJECT_NAME', 'haloBank');
+define('DEFAULT_CONTROLLER', 'accounts');
 define('DEBUG', false);
 
 // Load app
